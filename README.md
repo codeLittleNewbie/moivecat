@@ -23,3 +23,10 @@ cat host moive..
 - `bower`安装依赖的时候是可以指定安装路径的,需要在`.bowerrc`内配置directory
 
 
+### .gitignore
+- git的忽略文件
+
+### .editorconfig
+- 统一不同开发者的不同开发工具中的不同配置
+    - 比如说:不同开发工具中字体缩进,这些东西,我们统一格式
+- 在Sublime中使用需要安装一个`EditorConfig`的插件
